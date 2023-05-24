@@ -1,3 +1,6 @@
+import { title } from "errorhandler";
+import { message } from "statuses";
+
 const postData = async (url, data) => {
     const res = await fetch(url, {
       method: "POST",
@@ -22,3 +25,5 @@ const getResource = async (url) => {
 
   export {postData};
   export {getResource};
+
+  
