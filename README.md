@@ -1,4 +1,5 @@
 ### 🥦 Fit-food
+Приложение по доставке правильного питания с калькулятором калорий 
 
 ### 🖥️ Deployment
 
@@ -24,9 +25,9 @@ npm run build-prod
 ```
 
 ### ⚒️ Tech stack:
-HTML, CSS,
-Only desktop version
-Native JavaScript (Tabs, Slider, Forms, Countdown timer, Calorie Calculator)
-Webpack 5, Compress image
-JSON Server, LocalStorage
-Git, GitHub
+* HTML, CSS,
+* Only desktop version
+* Native JavaScript (Tabs, Slider, Forms, Countdown timer, Calorie Calculator)
+* Webpack 5, Compress image
+* JSON Server, LocalStorage
+* Git, GitHub
